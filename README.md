@@ -1,2 +1,2 @@
 # IROPTS_data_sharing
-This is the shared data for the research on integrated refined oil and power system. Everyone is welcomed to get a copy and do your own research.
+The file 'shared_data' is an opening dataset of some parameters for the research on integrated refined oil and power system. Everybody is welcomed to get a copy and do your own research. 
